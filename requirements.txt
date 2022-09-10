@@ -1,0 +1,16 @@
+tensorflow
+nltk
+keras
+numpy
+streamlit
+seaborn
+tweepy
+textblob
+flask
+pandas
+matplotlib
+scikit_learn
+statsmodels
+yfinance
+alpha_vantage
+https://pypi.anaconda.org/berber/simple/tweet-preprocessor/0.5.0/tweet-preprocessor-0.5.0.tar.gz
